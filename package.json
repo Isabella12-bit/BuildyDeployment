@@ -1,0 +1,15 @@
+{
+  "name": "base",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel base-js/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Isabella Montes Iñiguez",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "parcel-bundler": "^1.1s2.5"
+  }
+}
