@@ -1,7 +1,6 @@
 {
   "name": "base",
   "version": "1.0.0",
-  "main": "index.js",
   "scripts": {
     "start": "parcel base-js/index.html",
     "build": "parcel build base-js/index.html",
